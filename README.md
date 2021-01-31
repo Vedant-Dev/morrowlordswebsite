@@ -1,1 +1,3 @@
-# MorrowLords Website's First Official Repo
+# MorrowLords Website
+
+Landing page for game making company
